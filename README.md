@@ -8,5 +8,10 @@ Using a 10-year air quality dataset of California, we develop Logistic Regressio
 
 ## Work Flow
 The pipeline was built using Apache Spark SQL and Spark machine learning libraries (MLlib) on AWS Elastic MapReduce (EMR).
+![pic 1](https://user-images.githubusercontent.com/40928821/54239026-40f58380-44d7-11e9-989a-65f2557dc6a2.png)
 
 ## Results
+![result2](https://user-images.githubusercontent.com/40928821/54239217-cbd67e00-44d7-11e9-8e4b-da35a34d3ba9.png)
+
+## Conclusion
+Deploying the model on a cluster with various hyperparameter settings proved that a distributed setting on a cluster achieved better computational performance than a non-distributed setting. Compared to nondistributed settings, the study result is promising, proving that the designed pipeline can provide a scalable and efficient throughput of machine learning algorithms for air quality prediction.
