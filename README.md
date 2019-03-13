@@ -8,7 +8,7 @@ Using a 10-year air quality dataset of California, we develop Logistic Regressio
 
 ## Work Flow
 The pipeline was built using Apache Spark SQL and Spark machine learning libraries (MLlib) on AWS Elastic MapReduce (EMR).
-![pic 1](https://user-images.githubusercontent.com/40928821/54239026-40f58380-44d7-11e9-989a-65f2557dc6a2.png)
+<img width="1103" alt="system_workflow" src="https://user-images.githubusercontent.com/40928821/54246024-6a6ed900-44f0-11e9-8ec6-9a605c2c2c59.png">
 
 ## Results
 ![result2](https://user-images.githubusercontent.com/40928821/54239217-cbd67e00-44d7-11e9-8e4b-da35a34d3ba9.png)
